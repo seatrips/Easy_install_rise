@@ -9,7 +9,7 @@ Tested on Ubuntu 18.04 and 16.04 with following hosts
 
 ## Install
 ```
-wget https://raw.githubusercontent.com/seatrips/install_rise/master/installrise.sh > /dev/null 2>&1 && bash installrise.sh
+wget https://raw.githubusercontent.com/seatrips/Easy_install_rise/master/installrise.sh > /dev/null 2>&1 && bash installrise.sh
 ```
 ## If you have a fresh server check this first
 
