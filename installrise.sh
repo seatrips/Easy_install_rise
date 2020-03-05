@@ -50,7 +50,7 @@ echo 'Install Complete'
 echo -e $TEXT_RESET
 sleep 3
 ./manager.sh status
-sleep 5
+sleep 10
 clear
 echo -e $TEXT_YELLOW
 echo 'Now you can add yoor passphrase'
