@@ -55,7 +55,7 @@ clear
 echo -e $TEXT_YELLOW
 echo 'Now you can add yoor passphrase'
 clear
-read -p "Press enter to add yoor passphrase after that do ./manager.sh reload"
+read -p "Press enter to add yoor passphrase after that do ./manager.sh reload node"
 echo -e $TEXT_RESET
 clear
 cd
